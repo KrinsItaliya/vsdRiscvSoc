@@ -1,4 +1,4 @@
-# 🚀 Task 2: RISC-V Local Setup, Compilation & Instruction Decoding
+#  Task 2: RISC-V Local Setup, Compilation & Instruction Decoding
 
 This repository documents the complete workflow for **Task 2**, including:
 
